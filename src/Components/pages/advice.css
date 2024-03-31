@@ -1,0 +1,20 @@
+.adviceBody{
+    border:1px grey;
+padding: 50px;
+}
+.adviceBox{
+    
+    border:1px grey;
+    padding: 50px;
+    width: 500px;
+
+}
+.tagLine{
+    font-size: large;
+    font-style: bold;
+    padding: 15px;
+}
+.auth{
+    font-style: italic;
+    padding: 10px;
+}

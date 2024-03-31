@@ -1,0 +1,28 @@
+.categorybtn{
+display: flex;
+justify-content: center;
+padding: 30px;
+    width: 350px;
+    height: auto;
+    color: white;
+    background-color:#863780; ;
+    
+    text-decoration: none;
+    
+gap: 30px;
+margin-top: 5%;
+    
+    outline: none;
+    
+    border-radius: 25px;
+    font-size: 35px;
+    font-weight: 500;
+    list-style: none;
+    text-decoration-color: none;
+    outline: none;
+    
+    
+}
+.linkbtn{
+    text-decoration: none;
+}
